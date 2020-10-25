@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2\Soal2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M8535DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2\Soal2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2\Soal2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2\Soal2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2\Soal2.asm</FILE><LINE>6</LINE></MAIN>
+  <OPP><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2\Soal2.asm</FILE><LINE>37</LINE></OPP>
+  <AKHIR><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-01\2\Soal2.asm</FILE><LINE>34</LINE></AKHIR>
+ </LABELS>
+</ASSEMBLER_INFO>

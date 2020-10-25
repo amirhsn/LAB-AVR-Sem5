@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\NOMOR-8.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M8535DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\okt20.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\okt20.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\okt20.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\NOMOR-8.asm</FILE><LINE>5</LINE></MAIN>
+  <DAT1><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\NOMOR-8.asm</FILE><LINE>44</LINE></DAT1>
+  <JUMLAH><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\NOMOR-8.asm</FILE><LINE>34</LINE></JUMLAH>
+  <DAT2><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\NOMOR-8.asm</FILE><LINE>47</LINE></DAT2>
+  <HASIL><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\NOMOR-8.asm</FILE><LINE>50</LINE></HASIL>
+  <AKHIR><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-04\NOMOR-8.asm</FILE><LINE>32</LINE></AKHIR>
+ </LABELS>
+</ASSEMBLER_INFO>

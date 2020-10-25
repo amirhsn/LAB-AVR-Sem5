@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\okt13.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\okt13.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\okt13.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>6</LINE></MAIN>
+  <DATA><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>43</LINE></DATA>
+  <ULANG><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>21</LINE></ULANG>
+  <DAA><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>49</LINE></DAA>
+  <AKHIR><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>40</LINE></AKHIR>
+  <lup4><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>65</LINE></lup4>
+  <fk_ln><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>100</LINE></fk_ln>
+  <lup5><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>72</LINE></lup5>
+  <lup6><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>77</LINE></lup6>
+  <fk_hn><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>112</LINE></fk_hn>
+  <lup7><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>84</LINE></lup7>
+  <lup8><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>93</LINE></lup8>
+  <tuh><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\LAB-03\nomor_4.asm</FILE><LINE>108</LINE></tuh>
+ </LABELS>
+</ASSEMBLER_INFO>

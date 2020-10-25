@@ -1,0 +1,20 @@
+.include"m8535def.inc"
+.org 0
+;R0-R31 DENGAN 0-1F,MENGGUNAKAN METODA LOOP
+rjmp main
+
+main : LDI R17,LOW(RAMEND)
+	   OUT SPL,R17
+	   LDI R17,HIGH(RAMEND)
+	   OUT SPH,R17
+	   LDI R29,0x1F
+ULANG: ST Z+,R29
+	   DEC R29
+	   CPI R30,$1D
+	   BRNE ULANG
+	   LDI R30,$1
+	   LDI R31,$0
+
+
+
+AKHIR : RJMP AKHIR
