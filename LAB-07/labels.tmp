@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M8535DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\10nov20.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\10nov20.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\10nov20.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>6</LINE></MAIN>
+  <DAT><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>71</LINE></DAT>
+  <S33><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>17</LINE></S33>
+  <S11><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>18</LINE></S11>
+  <DELAY><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>53</LINE></DELAY>
+  <AKHIR><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>51</LINE></AKHIR>
+  <LUP21><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>57</LINE></LUP21>
+  <LUP22><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>58</LINE></LUP22>
+  <LUP23><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-07\nomor_1.asm</FILE><LINE>59</LINE></LUP23>
+ </LABELS>
+</ASSEMBLER_INFO>

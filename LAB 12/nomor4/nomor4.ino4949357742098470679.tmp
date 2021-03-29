@@ -1,0 +1,26 @@
+const int pinLED[] = {8, 9, 10, 11};
+const int pinPot = A0;
+void setup() {
+  Serial.begin(9600);
+  pinMode(pinPot, INPUT);
+  for(int i=0; i<4; i++){
+    pinMode(pinLED[i], OUTPUT);
+  }
+}
+void loop() {
+  nyala(analogRead(pinPot));
+}
+void nyala(int analogIndex){
+  if(analogIndex < 251){
+    digitalWrite(pinLED[0], HIGH);
+  }
+  else if(250< analogIndex < 501){
+    digitalWrite(pinLED[1], HIGH);
+  }
+  else if(500< analogIndex < 751){
+    digitalWrite(pinLED[2], HIGH);
+  }
+  else if(analogIndex > 750){
+    digitalWrite(pinLED[3], HIGH);
+  }
+}

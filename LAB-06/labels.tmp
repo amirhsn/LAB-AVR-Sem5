@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\Nov3-20.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\Nov3-20.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\Nov3-20.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>4</LINE></main>
+  <kar><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>45</LINE></kar>
+  <itu><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>14</LINE></itu>
+  <ini><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>15</LINE></ini>
+  <tunda><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>33</LINE></tunda>
+  <sini><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>20</LINE></sini>
+  <akhir><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>31</LINE></akhir>
+  <l21><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>34</LINE></l21>
+  <l22><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>35</LINE></l22>
+  <l23><FILE>E:\Nyekul\Perpolbanan\Alumnus 2018\Semester 5\Aplikasi Mikrokontroler\Praktikum\LAB-06\no9tica.asm</FILE><LINE>36</LINE></l23>
+ </LABELS>
+</ASSEMBLER_INFO>
